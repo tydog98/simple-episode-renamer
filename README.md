@@ -1,5 +1,5 @@
 # Simple Episode Renamer
-Simple script to rename show episodes into SXXEXX format
+Simple script to rename files into SXXEXX format
 
 To use simply download the script and run it with `python3 rename.py` in the directory your files are in
 
