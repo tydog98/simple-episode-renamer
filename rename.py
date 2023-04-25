@@ -2,12 +2,12 @@ import os
 
 print('This script assumes all episodes are already in proper order!')
 
-season = input("Enter season number: ")
+season = input('Enter season number: ')
 
 if season == '':
     season = '1'
 
-offset = input("Enter episode number to start from: ")
+offset = input('Enter episode number to start from: ')
 
 if offset == '':
     offset = '1'
